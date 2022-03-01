@@ -1,6 +1,7 @@
 create or replace dwh.table_def(
 	name string,
 	age integer,
-	date timestamptz
+	date timestamptz,
+	date_2 timestamptz
 )
 
