@@ -3,6 +3,6 @@ create or replace dwh.table_def(
 	age integer,
 	date timestamptz,
 	date_2 timestamp,
-	date_3 timestamptz,
+	date_3 timestam,
 )
 
